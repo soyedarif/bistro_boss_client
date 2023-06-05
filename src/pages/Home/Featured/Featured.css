@@ -1,0 +1,6 @@
+.featured-item{
+    background-image:linear-gradient(to top, rgba(32, 32, 32, 0.418) 0%, rgba(0, 0, 0, 0.719) 20%),url('../../../assets/home/featured.jpg') ;
+    background-size: cover;
+    color: white;
+    background-attachment: fixed;
+}
